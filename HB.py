@@ -22,7 +22,7 @@ TEXT TO FILE BOT
 JUST SENT YOUR CODE OR TEXT MESSAGE 
 THEN I WILL CONVERT IT INTO FILE
 
-MADE BY @TELSABOTS**"""
+MADE BY @AKKIOJHA**"""
 
 list_text = """**LIST OF  LANGAUGES
 
@@ -67,7 +67,7 @@ MADE BY @TELSABOTS**
 ABOUT_TEXT = """
  🤖<b>BOT :TEXT TO FILE </b>
  
- 🧑🏼‍💻DEV🧑🏼‍💻: @ALLUADDICT
+ 🧑🏼‍💻DEV🧑🏼‍💻: @AKKIOJHA
  
  📢<b>CHANNEL :</b>@TELSABOTS
  
@@ -75,7 +75,7 @@ ABOUT_TEXT = """
  
  🧰<b>Frame Work :</b>  <a href='https://pyrogram.org/'>Pyrogram</a>
  
- 🤩<b>SOURCE :</b>  <a href='https://github.com/hbbots/TEXT-TO-FILE-BOT'>CLICK HERE</a>
+ 🤩<b>SOURCE :</b>  <a href='https://github.com/ojha111/TEXT-TO-FILE-BjfffOT'>CLICK HERE</a>
  
  
 """
@@ -86,7 +86,7 @@ AND WATCH TOTOURIAL VIDEO IF YOU WANT ANY HELP</b>"""
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑‍💻DEV🧑‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('🧑‍💻DEV🧑‍💻', url='https://t.me/allfreeinone')
         ],[
         InlineKeyboardButton('🆘HELP🆘', callback_data='help'),
         InlineKeyboardButton('🤗ABOUT🤗', callback_data='about'),
@@ -95,7 +95,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/allfreeinone'),
         InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
         ],[
         InlineKeyboardButton('🏡HOME🏡', callback_data='home'),
@@ -105,8 +105,8 @@ HELP_BUTTONS = InlineKeyboardMarkup(
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/allfreeinone'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/allfreeinone')
         ],[
         InlineKeyboardButton('🏡HOME🏡', callback_data='home'),
         InlineKeyboardButton('🆘HELP🆘', callback_data='help'),
@@ -116,15 +116,15 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
 
 SOURCE_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤩SOURCE🤩', url='https://github.com/hbbots/TEXT-TO-FILE-BOT')
+        InlineKeyboardButton('🤩SOURCE🤩', url='https://github.com/ojha111/TEXT-TO-FILE-BOT')
         ],[
         InlineKeyboardButton('🔐CLOSE 🔐', callback_data='close')
         ]]
     )
 list_buttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/allfreeinone'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/allfreeinone')
         ],[
         InlineKeyboardButton('🔐CLOSE🔐', callback_data='list')
         ]]
@@ -206,8 +206,8 @@ async def Source_message(bot, update):
     )     
 result_buttons = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📢CHANNEL📢', url='https://telegram.me/TELSABOTS'),
-        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://telegram.me/alluaddict')
+        InlineKeyboardButton('📢CHANNEL📢', url='https://t.me/allfreeinone'),
+        InlineKeyboardButton('🧑🏼‍💻DEV🧑🏼‍💻', url='https://t.me/allfreeinone')
         ],[
         InlineKeyboardButton('🔐CLOSE🔐', callback_data='close')
         ]]
