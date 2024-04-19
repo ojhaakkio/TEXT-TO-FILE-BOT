@@ -12,7 +12,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hbbots/TEXT-TO-FILE-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ojhaakkio/TEXT-TO-FILE-BOT)
     
     
 
