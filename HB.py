@@ -1,5 +1,4 @@
 import os
-import pyrogram
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup 
 import tgcrypto
